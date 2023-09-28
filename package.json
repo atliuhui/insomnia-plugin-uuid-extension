@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-uuid-extension",
+  "version": "3.6.0",
+  "private": true,
+  "insomnia": {
+    "name": "uuid-extension",
+    "description": ""
+  },
+  "main": "main.js",
+  "dependencies": {
+    "insomnia-plugin-uuid": "3.6.0",
+    "lodash": "^4.17.21"
+  }
+}
